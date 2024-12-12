@@ -1,0 +1,42 @@
+20:23:37:251 [main] INFO  testCases.TC001_RegisterUser - *** Started TC001_RegisterUser ***
+20:23:37:293 [main] INFO  testCases.TC001_RegisterUser - Navigated to homepage and maximized browser
+20:23:37:296 [main] INFO  testCases.TC001_RegisterUser - Homepage validation success
+20:23:38:502 [main] INFO  testCases.TC001_RegisterUser - Clicked on Signup/Login link
+20:23:41:548 [main] INFO  testCases.TC001_RegisterUser - Signup/Login page Validation success
+20:23:42:828 [main] INFO  testCases.TC001_RegisterUser - Provided Name & Email and clicked on Submit button
+20:23:42:858 [main] INFO  testCases.TC001_RegisterUser - Signup page Validation success
+20:23:42:858 [main] INFO  testCases.TC001_RegisterUser - Entering signup details.......
+20:23:46:332 [main] INFO  testCases.TC001_RegisterUser - Signup details entered successfully and clicked on create account button
+20:23:47:721 [main] INFO  testCases.TC001_RegisterUser - Account created page Validation success and clicked on continue button
+20:23:47:773 [main] INFO  testCases.TC001_RegisterUser - Validated User is login status
+20:23:48:933 [main] INFO  testCases.TC001_RegisterUser - Deleted account
+20:23:50:475 [main] INFO  testCases.TC001_RegisterUser - Account deleted page Validated and clicked on continue button
+20:23:50:475 [main] INFO  testCases.TC001_RegisterUser - *** Completed TC001_RegisterUser ***
+20:23:56:147 [main] INFO  testCases.TC001_RegisterUser - *** Started TC001_RegisterUser ***
+20:23:56:185 [main] INFO  testCases.TC001_RegisterUser - Navigated to homepage and maximized browser
+20:23:56:185 [main] INFO  testCases.TC001_RegisterUser - Homepage validation success
+20:23:57:413 [main] INFO  testCases.TC001_RegisterUser - Clicked on Signup/Login link
+20:24:00:462 [main] INFO  testCases.TC001_RegisterUser - Signup/Login page Validation success
+20:24:02:103 [main] INFO  testCases.TC001_RegisterUser - Provided Name & Email and clicked on Submit button
+20:24:02:151 [main] INFO  testCases.TC001_RegisterUser - Signup page Validation success
+20:24:02:151 [main] INFO  testCases.TC001_RegisterUser - Entering signup details.......
+20:24:05:615 [main] INFO  testCases.TC001_RegisterUser - Signup details entered successfully and clicked on create account button
+20:24:07:223 [main] INFO  testCases.TC001_RegisterUser - Account created page Validation success and clicked on continue button
+20:24:07:302 [main] INFO  testCases.TC001_RegisterUser - Validated User is login status
+20:24:08:540 [main] INFO  testCases.TC001_RegisterUser - Deleted account
+20:24:09:842 [main] INFO  testCases.TC001_RegisterUser - Account deleted page Validated and clicked on continue button
+20:24:09:843 [main] INFO  testCases.TC001_RegisterUser - *** Completed TC001_RegisterUser ***
+20:24:17:990 [main] INFO  testCases.TC001_RegisterUser - *** Started TC001_RegisterUser ***
+20:24:18:019 [main] INFO  testCases.TC001_RegisterUser - Navigated to homepage and maximized browser
+20:24:18:019 [main] INFO  testCases.TC001_RegisterUser - Homepage validation success
+20:24:19:259 [main] INFO  testCases.TC001_RegisterUser - Clicked on Signup/Login link
+20:24:22:283 [main] INFO  testCases.TC001_RegisterUser - Signup/Login page Validation success
+20:24:23:035 [main] INFO  testCases.TC001_RegisterUser - Provided Name & Email and clicked on Submit button
+20:24:23:085 [main] INFO  testCases.TC001_RegisterUser - Signup page Validation success
+20:24:23:085 [main] INFO  testCases.TC001_RegisterUser - Entering signup details.......
+20:24:26:067 [main] INFO  testCases.TC001_RegisterUser - Signup details entered successfully and clicked on create account button
+20:24:28:863 [main] INFO  testCases.TC001_RegisterUser - Account created page Validation success and clicked on continue button
+20:24:28:887 [main] INFO  testCases.TC001_RegisterUser - Validated User is login status
+20:24:29:591 [main] INFO  testCases.TC001_RegisterUser - Deleted account
+20:24:31:802 [main] INFO  testCases.TC001_RegisterUser - Account deleted page Validated and clicked on continue button
+20:24:31:802 [main] INFO  testCases.TC001_RegisterUser - *** Completed TC001_RegisterUser ***
